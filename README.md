@@ -128,6 +128,7 @@ The best places to discover more agent skills and plugins.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills, and RAG apps, free and open source.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core: local, agent-first control plane for catalog discovery and agent-owned skill selection.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of skills, plugins, memory providers, tools, surfaces, and guides for Hermes Agent.
+- [Agent Plugins Directory](https://agentpluginsdirectory.com) - Verified web directory for the Agent Plugins standard: every plugin.json on GitHub fetched daily and checked against the official 1.0.0 schema, with published stats and a free validator.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - The most popular collection of MCP servers.
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Curated list of Model Context Protocol servers.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - Another curated list of MCP servers (incl. official and community servers).

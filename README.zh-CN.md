@@ -126,6 +126,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents、Agent Skills 与 RAG 应用，免费开源。
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core：本地优先、面向 Agent 的控制平面，支持目录发现与技能自主选择。
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Hermes Agent 的技能、插件、记忆提供者、工具、界面与指南独立目录。
+- [Agent Plugins Directory](https://agentpluginsdirectory.com) - Agent Plugins 标准的验证目录：每日抓取 GitHub 上的全部 plugin.json 并对照官方 1.0.0 schema 校验，提供统计数据与免费在线校验器。
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 最流行的 MCP 服务器合集。
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Model Context Protocol 服务器精选列表。
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - 另一份 MCP 服务器精选列表（含官方与社区服务器）。
