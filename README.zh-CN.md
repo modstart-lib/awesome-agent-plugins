@@ -152,6 +152,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [firecrawl](https://officialskills.sh/firecrawl/skills/firecrawl-build) - Firecrawl 团队技能：网页搜索、抓取、抽取与浏览器交互。
 - [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - MongoDB 官方技能。
 - [redis/agent-skills](https://github.com/redis/agent-skills) - Redis 官方技能。
+- [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) - RunAPI 官方技能，用于发现模型并运行图像、视频、音乐、语音及其他模型 API 任务。
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA 官方技能（AI/GPU 开发）。
 
 - [microsoft/skills](https://github.com/microsoft/skills) - Microsoft 官方技能（Azure、.NET 与 AI 开发）。
