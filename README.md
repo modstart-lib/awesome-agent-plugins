@@ -137,10 +137,11 @@ The best places to discover more agent skills and plugins.
 
 First-party skills published by the teams that build the tools.
 
-- [anthropics/skills](https://github.com/anthropics/skills) - The official public repository for Anthropic Agent Skills (docx, pptx, xlsx, pdf, canvas-design, frontend-design, mcp-builder, webapp-testing, brand-guidelines, skill-creator, and more).
+- [anthropics/skills](https://github.com/anthropics/skills) - The official public repository for Anthropic Agent Skills (docx, pptx, xlsx, pdf, canvas-design, frontend-design, mcp-builder, webapp-testing, brand-guidelines, skill-creator, claude-api, academy-guide, discernment-nudge, and more).
 - [angular/skills](https://github.com/angular/skills) - Official Angular skills for generating Angular code, components, services, and new apps.
-- [openai](https://github.com/openai) - OpenAI agent skills & guidance for building with the OpenAI API.
+- [openai/skills](https://github.com/openai/skills) - OpenAI's official skills catalog for building with the OpenAI API.
 - [google-gemini/gemini-api-dev](https://officialskills.sh/google-gemini/skills/gemini-api-dev) - Best practices for developing Gemini-powered apps using the Gemini API.
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Official Gemini API skills covering the Gemini Interactions API, Live API, and Omni Flash API.
 - [stripe/stripe-best-practices](https://officialskills.sh/stripe/skills/stripe-best-practices) - Best practices for building Stripe integrations, plus SDK/API upgrade skills.
 - [vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices) - Next.js best practices, caching, and upgrade skills from the Vercel engineering team.
 - [cloudflare](https://officialskills.sh/cloudflare/skills/cloudflare) - Comprehensive Cloudflare platform skill covering Workers, Pages, storage, AI, networking, security, and IaC.
@@ -151,16 +152,16 @@ First-party skills published by the teams that build the tools.
 - [clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices) - Best practices for ClickHouse, architecture advisor, and local/cloud deployment.
 - [sanity-io/sanity-best-practices](https://officialskills.sh/sanity-io/skills/sanity-best-practices) - Sanity Studio, GROQ, content modeling, and SEO/AEO best practices.
 - [firecrawl](https://officialskills.sh/firecrawl/skills/firecrawl-build) - Firecrawl team skills for web search, scraping, extraction, and browser interaction.
-- [mongodb](https://github.com/mongodb) - Official MongoDB skills for working with MongoDB databases and drivers.
-- [redis](https://github.com/redis) - Official Redis skills for working with Redis data structures and clients.
-- [duckdb](https://github.com/duckdb) - Official DuckDB skills for embedded analytics.
-- [NVIDIA](https://github.com/NVIDIA) - NVIDIA skills for AI/GPU development.
-- [google-cloud](https://github.com/GoogleCloudPlatform) - Google Cloud skills for GCP development and operations.
-- [microsoft](https://github.com/microsoft) - Microsoft skills for Azure, .NET, and AI development.
-- [figma](https://github.com/figma) - Figma skills for design-to-code and Figma API integration.
-- [expo](https://github.com/expo) - Expo team skills for building, deploying, and debugging Expo apps.
-- [firebase](https://github.com/firebase) - Firebase skills for web and mobile backends.
-- [flutter](https://github.com/flutter) - Flutter skills for cross-platform UI development.
+- [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - Official MongoDB skills for working with MongoDB databases and drivers.
+- [redis/agent-skills](https://github.com/redis/agent-skills) - Official Redis skills for working with Redis data structures and clients.
+
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA skills for AI/GPU development.
+
+- [microsoft/skills](https://github.com/microsoft/skills) - Microsoft skills for Azure, .NET, and AI development.
+- [figma/community-resources](https://github.com/figma/community-resources) - Figma resources including agent skills for design-to-code and API integration.
+- [expo/skills](https://github.com/expo/skills) - Expo team skills for building, deploying, and debugging Expo apps.
+- [firebase/agent-skills](https://github.com/firebase/agent-skills) - Firebase skills for web and mobile backends.
+- [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - Flutter skills for cross-platform UI development.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills teaching coding agents to correctly use GSAP.
 - [typefully/typefully](https://officialskills.sh/typefully/skills/typefully) - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon.
 - [replicate/replicate](https://officialskills.sh/replicate/skills/replicate) - Discover, compare, and run AI models using Replicate's API.
@@ -195,7 +196,7 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [angular/angular-new-app](https://github.com/angular/skills) - Create new Angular apps using the CLI with modern best practices.
 - [callstackincubator/react-native-best-practices](https://officialskills.sh/callstackincubator/skills/react-native-best-practices) - Performance optimization for React Native apps from Callstack.
 - [callstackincubator/upgrading-react-native](https://officialskills.sh/callstackincubator/skills/upgrading-react-native) - React Native upgrade workflow: templates, dependencies, and common pitfalls.
-- [flutter](https://github.com/flutter) - Official Flutter skills for cross-platform UI development.
+- [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - Official Flutter skills for cross-platform UI development.
 
 ### Backend & API
 
@@ -204,19 +205,14 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [trycourier/courier-skills](https://github.com/trycourier/courier-skills) - Multi-channel notifications via email, SMS, push, and chat.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent context across sessions for every agent; captures everything your agent does during a session.
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - Turn API specifications into production-ready SDKs, validators, mocks, and more.
-- [apollo-graphql](https://github.com/apollographql) - Apollo GraphQL skills for building GraphQL APIs.
-- [auth0](https://github.com/auth0) - Auth0 skills for authentication and authorization.
+- [apollographql/skills](https://github.com/apollographql/skills) - Apollo GraphQL skills for building GraphQL APIs.
+- [auth0/agent-skills](https://github.com/auth0/agent-skills) - Auth0 skills for authentication and authorization.
+- [brave/brave-search-skills](https://github.com/brave/brave-search-skills) - Official skills for Brave Search API: web, news, image, video, local search, and AI-grounded answers.
 
 ### Testing & QA
 
 - [anthropics/webapp-testing](https://github.com/anthropics/skills) - Test local web applications using Playwright (official Anthropic skill).
-- [testmu-ai/playwright-skill](https://github.com/LambdaTest/agent-skills/tree/main/playwright-skill) - Generate Playwright E2E tests in TS, JS, Python, Java, or C#.
-- [testmu-ai/cypress-skill](https://github.com/LambdaTest/agent-skills/tree/main/cypress-skill) - Generate Cypress E2E and component tests in JavaScript or TypeScript.
-- [testmu-ai/pytest-skill](https://github.com/LambdaTest/agent-skills/tree/main/pytest-skill) - Generate pytest tests in Python with fixtures, parametrize, and mocking.
-- [testmu-ai/jest-skill](https://github.com/LambdaTest/agent-skills/tree/main/jest-skill) - Generate Jest unit and integration tests in JS/TS with mocking and snapshots.
-- [testmu-ai/selenium-skill](https://github.com/LambdaTest/agent-skills/tree/main/selenium-skill) - Generate Selenium WebDriver tests in Java, Python, JS, C#, Ruby, or PHP.
-- [testmu-ai/appium-skill](https://github.com/LambdaTest/agent-skills/tree/main/appium-skill) - Generate Appium mobile automation for Android and iOS in Java, Python, or JS.
-- [testmu-ai/test-framework-migration-skill](https://github.com/LambdaTest/agent-skills/tree/main/test-framework-migration-skill) - Migrate tests between Selenium, Playwright, Puppeteer, and Cypress.
+- [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) - AI agent skills for test automation: Playwright, Cypress, pytest, Jest, Selenium, Appium, and test framework migration.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OMO/lazycodex: the coding agent for tokenmaxxers; the one and only agent harness for complex codebases.
 
 ### Databases & Data
@@ -225,9 +221,9 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [neondatabase/neon-postgres](https://officialskills.sh/neondatabase/skills/neon-postgres) - Neon Serverless Postgres best practices and claimable databases.
 - [clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices) - ClickHouse best practices and architecture advisor.
 - [tinybirdco/tinybird-best-practices](https://officialskills.sh/tinybirdco/skills/tinybird-best-practices) - Tinybird project guidelines for datasources, pipes, endpoints, and SQL.
-- [mongodb](https://github.com/mongodb) - Official MongoDB skills.
-- [redis](https://github.com/redis) - Official Redis skills.
-- [duckdb](https://github.com/duckdb) - Official DuckDB skills.
+- [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - Official MongoDB skills.
+- [redis/agent-skills](https://github.com/redis/agent-skills) - Official Redis skills.
+
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach > graphs that impress; turn any code into an interactive knowledge graph.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI agents; unify agent memory, knowledge RAG, and skills.
@@ -237,16 +233,17 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [cloudflare](https://officialskills.sh/cloudflare/skills/cloudflare) - Comprehensive Cloudflare platform skill (Workers, Pages, storage, AI, networking, security, IaC).
 - [netlify](https://officialskills.sh/netlify/skills/netlify-functions) - Netlify skills: functions, edge functions, blobs, DB, image CDN, forms, caching, deploys.
 - [hashicorp/terraform](https://officialskills.sh/hashicorp/skills/new-terraform-provider) - Official Terraform skills: providers, resources, tests, style guide, stacks, and import.
-- [google-cloud](https://github.com/GoogleCloudPlatform) - Google Cloud skills for GCP.
-- [aws](https://github.com/aws) - AWS skills for cloud infrastructure and development.
-- [azure](https://github.com/Azure) - Azure skills for Microsoft cloud.
+- [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) - Official Datadog skills for APM, logs, monitors, CI/CD, and LLM observability.
+- [google/skills](https://github.com/google/skills) - The official Google Agent Skills repository covering 100+ skills for Google Cloud, AI/ML, and developer tools.
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - AWS skills for cloud infrastructure and development.
+- [Azure/azure-functions-skills](https://github.com/Azure/azure-functions-skills) - Azure skills for Microsoft cloud.
 - [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - Curated MCP servers focused on DevOps tools and capabilities.
 
 ## 🔐 Security
 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents, mapped to 6 frameworks (MITRE ATT&CK, NIST CSF 2, and more).
-- [trailofbits](https://github.com/trailofbits) - Security skills by Trail of Bits for secure development and auditing.
-- [coderabbit](https://github.com/coderabbitai) - CodeRabbit skills for automated code review.
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Security skills by Trail of Bits for secure development and auditing.
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - CodeRabbit skills for automated code review.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs.
 
 ## 🎨 Design & Creative
@@ -259,7 +256,7 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [google-labs-code/design-md](https://officialskills.sh/google-labs-code/skills/design-md) - Create and manage DESIGN.md files (Google Stitch).
 - [remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion) - Programmatic video creation with React.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source agentic video production system: 12 production pipelines, 100+ tools, 700+ UI flows.
-- [figma](https://github.com/figma) - Figma skills for design-to-code workflows.
+- [figma/community-resources](https://github.com/figma/community-resources) - Figma resources including agent skills for design-to-code workflows.
 
 ## 📈 Marketing & Growth
 
@@ -282,8 +279,8 @@ Methodologies, frameworks, and workflows that make agents more effective.
 - [googleworkspace/gws-gmail](https://officialskills.sh/googleworkspace/skills/gws-gmail) - Send, read, and manage Gmail email.
 - [googleworkspace/gws-calendar](https://officialskills.sh/googleworkspace/skills/gws-calendar) - Manage Google Calendar calendars and events.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian; teach your agent to use Obsidian CLI and open formats including Markdown.
-- [notion](https://github.com/makenotion) - Notion skills for managing Notion workspaces and databases.
-- [resend](https://github.com/resend) - Resend skills for sending transactional email.
+- [notion/skills](https://github.com/makenotion/skills) - Notion skills for managing Notion workspaces and databases.
+- [resend/resend-skills](https://github.com/resend/resend-skills) - Resend skills for sending transactional email.
 
 ## 🎓 Research & Education
 
@@ -296,8 +293,8 @@ Methodologies, frameworks, and workflows that make agents more effective.
 
 - [stripe/stripe-best-practices](https://officialskills.sh/stripe/skills/stripe-best-practices) - Best practices for building Stripe integrations.
 - [stripe/upgrade-stripe](https://officialskills.sh/stripe/skills/upgrade-stripe) - Upgrade Stripe SDK and API versions.
-- [binance](https://github.com/binance) - Binance skills for trading and market data.
-- [coinbase](https://github.com/coinbase) - Coinbase skills for crypto and payments.
+- [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance skills for trading and market data.
+- [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) - Coinbase skills for crypto and payments.
 - [veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc) - JSON-RPC proxying for supported crypto networks.
 - [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) - The trust layer for agent-to-agent commerce — natural-language mandates and ERC-7710 delegations.
 

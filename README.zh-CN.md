@@ -135,10 +135,11 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 
 由工具开发者发布的第一方技能。
 
-- [anthropics/skills](https://github.com/anthropics/skills) - Anthropic 官方 Agent Skills 公共仓库（docx、pptx、xlsx、pdf、canvas-design、frontend-design、mcp-builder、webapp-testing、brand-guidelines、skill-creator 等）。
+- [anthropics/skills](https://github.com/anthropics/skills) - Anthropic 官方 Agent Skills 公共仓库（docx、pptx、xlsx、pdf、canvas-design、frontend-design、mcp-builder、webapp-testing、brand-guidelines、skill-creator、claude-api、academy-guide、discernment-nudge 等）。
 - [angular/skills](https://github.com/angular/skills) - Angular 官方技能：生成 Angular 代码、组件、服务与新应用。
-- [openai](https://github.com/openai) - OpenAI 官方技能与基于 OpenAI API 构建的指导。
+- [openai/skills](https://github.com/openai/skills) - OpenAI 官方技能目录，基于 OpenAI API 构建的指导。
 - [google-gemini/gemini-api-dev](https://officialskills.sh/google-gemini/skills/gemini-api-dev) - 使用 Gemini API 开发应用的最佳实践。
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - 官方 Gemini API 技能：Gemini Interactions API、Live API 与 Omni Flash API。
 - [stripe/stripe-best-practices](https://officialskills.sh/stripe/skills/stripe-best-practices) - 构建 Stripe 集成的最佳实践，以及 SDK/API 升级技能。
 - [vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices) - Vercel 工程团队的 Next.js 最佳实践、缓存与升级技能。
 - [cloudflare](https://officialskills.sh/cloudflare/skills/cloudflare) - 综合 Cloudflare 平台技能：Workers、Pages、存储、AI、网络、安全与 IaC。
@@ -149,16 +150,15 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices) - ClickHouse 最佳实践、架构顾问与本地/云端部署。
 - [sanity-io/sanity-best-practices](https://officialskills.sh/sanity-io/skills/sanity-best-practices) - Sanity Studio、GROQ、内容建模与 SEO/AEO 最佳实践。
 - [firecrawl](https://officialskills.sh/firecrawl/skills/firecrawl-build) - Firecrawl 团队技能：网页搜索、抓取、抽取与浏览器交互。
-- [mongodb](https://github.com/mongodb) - MongoDB 官方技能。
-- [redis](https://github.com/redis) - Redis 官方技能。
-- [duckdb](https://github.com/duckdb) - DuckDB 官方技能（嵌入式分析）。
-- [NVIDIA](https://github.com/NVIDIA) - NVIDIA 官方技能（AI/GPU 开发）。
-- [google-cloud](https://github.com/GoogleCloudPlatform) - Google Cloud 技能（GCP 开发与运维）。
-- [microsoft](https://github.com/microsoft) - Microsoft 官方技能（Azure、.NET 与 AI 开发）。
-- [figma](https://github.com/figma) - Figma 技能：设计转代码与 Figma API 集成。
-- [expo](https://github.com/expo) - Expo 团队技能：构建、部署与调试 Expo 应用。
-- [firebase](https://github.com/firebase) - Firebase 技能（Web 与移动端后端）。
-- [flutter](https://github.com/flutter) - Flutter 官方技能（跨平台 UI 开发）。
+- [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - MongoDB 官方技能。
+- [redis/agent-skills](https://github.com/redis/agent-skills) - Redis 官方技能。
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA 官方技能（AI/GPU 开发）。
+
+- [microsoft/skills](https://github.com/microsoft/skills) - Microsoft 官方技能（Azure、.NET 与 AI 开发）。
+- [figma/community-resources](https://github.com/figma/community-resources) - Figma 社区资源合集，包含设计转代码与 API 集成的 Agent 技能。
+- [expo/skills](https://github.com/expo/skills) - Expo 团队技能：构建、部署与调试 Expo 应用。
+- [firebase/agent-skills](https://github.com/firebase/agent-skills) - Firebase 技能（Web 与移动端后端）。
+- [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - Flutter 官方技能（跨平台 UI 开发）。
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - GSAP 官方 AI 技能：教编码智能体正确使用 GSAP。
 - [typefully/typefully](https://officialskills.sh/typefully/skills/typefully) - 在 X、LinkedIn、Threads、Bluesky 与 Mastodon 创建、排期与发布社媒内容。
 - [replicate/replicate](https://officialskills.sh/replicate/skills/replicate) - 使用 Replicate API 发现、比较与运行 AI 模型。
@@ -193,7 +193,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [angular/angular-new-app](https://github.com/angular/skills) - 使用 CLI 与最新最佳实践创建新 Angular 应用。
 - [callstackincubator/react-native-best-practices](https://officialskills.sh/callstackincubator/skills/react-native-best-practices) - Callstack 出品的 React Native 性能优化。
 - [callstackincubator/upgrading-react-native](https://officialskills.sh/callstackincubator/skills/upgrading-react-native) - React Native 升级工作流：模板、依赖与常见坑。
-- [flutter](https://github.com/flutter) - Flutter 官方技能（跨平台 UI 开发）。
+- [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - Flutter 官方技能（跨平台 UI 开发）。
 
 ### 后端与 API
 
@@ -202,19 +202,14 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [trycourier/courier-skills](https://github.com/trycourier/courier-skills) - 通过邮件、短信、推送与聊天实现多通道通知。
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - 每个智能体的会话间持久上下文；捕获会话期间的所有操作。
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 将 API 规范转换为生产级 SDK、校验器、Mock 等。
-- [apollo-graphql](https://github.com/apollographql) - Apollo GraphQL 技能（构建 GraphQL API）。
-- [auth0](https://github.com/auth0) - Auth0 技能（认证与授权）。
+- [apollographql/skills](https://github.com/apollographql/skills) - Apollo GraphQL 技能（构建 GraphQL API）。
+- [auth0/agent-skills](https://github.com/auth0/agent-skills) - Auth0 技能（认证与授权）。
+- [brave/brave-search-skills](https://github.com/brave/brave-search-skills) - Brave Search API 官方技能：网页、新闻、图片、视频、本地搜索与 AI 功能。
 
 ### 测试与质量保障
 
 - [anthropics/webapp-testing](https://github.com/anthropics/skills) - 使用 Playwright 测试本地 Web 应用（Anthropic 官方技能）。
-- [testmu-ai/playwright-skill](https://github.com/LambdaTest/agent-skills/tree/main/playwright-skill) - 生成 TS、JS、Python、Java 或 C# 的 Playwright E2E 测试。
-- [testmu-ai/cypress-skill](https://github.com/LambdaTest/agent-skills/tree/main/cypress-skill) - 生成 JavaScript/TypeScript 的 Cypress E2E 与组件测试。
-- [testmu-ai/pytest-skill](https://github.com/LambdaTest/agent-skills/tree/main/pytest-skill) - 生成带 fixtures、参数化与 mock 的 pytest 测试。
-- [testmu-ai/jest-skill](https://github.com/LambdaTest/agent-skills/tree/main/jest-skill) - 生成带 mock 与快照的 Jest 单元/集成测试。
-- [testmu-ai/selenium-skill](https://github.com/LambdaTest/agent-skills/tree/main/selenium-skill) - 生成 Java、Python、JS、C#、Ruby 或 PHP 的 Selenium WebDriver 测试。
-- [testmu-ai/appium-skill](https://github.com/LambdaTest/agent-skills/tree/main/appium-skill) - 生成 Android/iOS 的 Appium 移动自动化测试。
-- [testmu-ai/test-framework-migration-skill](https://github.com/LambdaTest/agent-skills/tree/main/test-framework-migration-skill) - 在 Selenium、Playwright、Puppeteer 与 Cypress 之间迁移测试。
+- [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) - AI Agent 测试自动化技能：Playwright、Cypress、pytest、Jest、Selenium、Appium 与测试框架迁移。
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OMO/lazycodex：面向复杂代码库的极致 Token 利用编码智能体。
 
 ### 数据库与数据
@@ -223,9 +218,9 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [neondatabase/neon-postgres](https://officialskills.sh/neondatabase/skills/neon-postgres) - Neon Serverless Postgres 最佳实践与可认领数据库。
 - [clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices) - ClickHouse 最佳实践与架构顾问。
 - [tinybirdco/tinybird-best-practices](https://officialskills.sh/tinybirdco/skills/tinybird-best-practices) - Tinybird 项目指南：数据源、管道、端点与 SQL。
-- [mongodb](https://github.com/mongodb) - MongoDB 官方技能。
-- [redis](https://github.com/redis) - Redis 官方技能。
-- [duckdb](https://github.com/duckdb) - DuckDB 官方技能。
+- [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - MongoDB 官方技能。
+- [redis/agent-skills](https://github.com/redis/agent-skills) - Redis 官方技能。
+
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - 将代码库（含文档、SQL 模式、配置与 PDF）转化为可查询的知识图谱。
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - 比惊艳更擅长教学的图谱；将任意代码转化为交互式知识图谱。
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - 面向 AI Agent 的自进化上下文数据库，统一记忆、知识 RAG 与技能。
@@ -235,16 +230,17 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [cloudflare](https://officialskills.sh/cloudflare/skills/cloudflare) - 综合 Cloudflare 平台技能（Workers、Pages、存储、AI、网络、安全、IaC）。
 - [netlify](https://officialskills.sh/netlify/skills/netlify-functions) - Netlify 技能：函数、边缘函数、Blobs、数据库、图片 CDN、表单、缓存、部署。
 - [hashicorp/terraform](https://officialskills.sh/hashicorp/skills/new-terraform-provider) - Terraform 官方技能：Provider、资源、测试、风格指南、Stacks 与导入。
-- [google-cloud](https://github.com/GoogleCloudPlatform) - Google Cloud 技能（GCP）。
-- [aws](https://github.com/aws) - AWS 官方技能（云基础设施与开发）。
-- [azure](https://github.com/Azure) - Azure 官方技能（微软云）。
+- [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) - Datadog 官方技能：APM、日志、监控、CI/CD 与 LLM 可观测性。
+- [google/skills](https://github.com/google/skills) - Google 官方 Agent 技能库，涵盖 100+ 技能：Google Cloud、AI/ML 与开发者工具。
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - AWS 官方技能（云基础设施与开发）。
+- [Azure/azure-functions-skills](https://github.com/Azure/azure-functions-skills) - Azure 官方技能（微软云）。
 - [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - 面向 DevOps 工具与能力的 MCP 服务器精选。
 
 ## 🔐 安全
 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 面向 AI Agent 的 817 个结构化网络安全技能，映射 6 大框架（MITRE ATT&CK、NIST CSF 2 等）。
-- [trailofbits](https://github.com/trailofbits) - Trail of Bits 的安全技能（安全开发与审计）。
-- [coderabbit](https://github.com/coderabbitai) - CodeRabbit 技能（自动化代码审查）。
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits 的安全技能（安全开发与审计）。
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - CodeRabbit 技能（自动化代码审查）。
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - 位于任意 MCP、A2A 或 REST/gRPC API 之前的 AI 网关、注册表与代理。
 
 ## 🎨 设计与创意
@@ -257,7 +253,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [google-labs-code/design-md](https://officialskills.sh/google-labs-code/skills/design-md) - 创建与管理 DESIGN.md 文件（Google Stitch）。
 - [remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion) - 使用 React 进行程序化视频创作。
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - 全球首个开源 Agentic 视频制作系统：12 条生产管线、100+ 工具、700+ UI 流程。
-- [figma](https://github.com/figma) - Figma 技能（设计转代码工作流）。
+- [figma/community-resources](https://github.com/figma/community-resources) - Figma 社区资源合集（设计转代码工作流）。
 
 ## 📈 营销与增长
 
@@ -280,8 +276,8 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [googleworkspace/gws-gmail](https://officialskills.sh/googleworkspace/skills/gws-gmail) - 发送、读取与管理 Gmail 邮件。
 - [googleworkspace/gws-calendar](https://officialskills.sh/googleworkspace/skills/gws-calendar) - 管理 Google Calendar 日历与事件。
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Obsidian 的 Agent 技能；教你的智能体使用 Obsidian CLI 与 Markdown 等开放格式。
-- [notion](https://github.com/makenotion) - Notion 技能（管理工作区与数据库）。
-- [resend](https://github.com/resend) - Resend 技能（发送事务邮件）。
+- [notion/skills](https://github.com/makenotion/skills) - Notion 技能（管理工作区与数据库）。
+- [resend/resend-skills](https://github.com/resend/resend-skills) - Resend 技能（发送事务邮件）。
 
 ## 🎓 研究与教育
 
@@ -294,8 +290,8 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 
 - [stripe/stripe-best-practices](https://officialskills.sh/stripe/skills/stripe-best-practices) - 构建 Stripe 集成的最佳实践。
 - [stripe/upgrade-stripe](https://officialskills.sh/stripe/skills/upgrade-stripe) - 升级 Stripe SDK 与 API 版本。
-- [binance](https://github.com/binance) - Binance 技能（交易与市场数据）。
-- [coinbase](https://github.com/coinbase) - Coinbase 技能（加密与支付）。
+- [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance 技能（交易与市场数据）。
+- [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) - Coinbase 技能（加密与支付）。
 - [veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc) - 支持加密网络的 JSON-RPC 代理。
 - [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) - Agent 间商业的信任层——自然语言委托与 ERC-7710 授权。
 
