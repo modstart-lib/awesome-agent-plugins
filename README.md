@@ -154,6 +154,7 @@ First-party skills published by the teams that build the tools.
 - [firecrawl](https://officialskills.sh/firecrawl/skills/firecrawl-build) - Firecrawl team skills for web search, scraping, extraction, and browser interaction.
 - [mongodb/agent-skills](https://github.com/mongodb/agent-skills) - Official MongoDB skills for working with MongoDB databases and drivers.
 - [redis/agent-skills](https://github.com/redis/agent-skills) - Official Redis skills for working with Redis data structures and clients.
+- [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) - RunAPI's official skill for model discovery and image, video, music, speech, and other model API jobs.
 
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA skills for AI/GPU development.
 
