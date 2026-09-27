@@ -333,6 +333,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 ## 🇨🇳 中文资源
 
 中文相关的 Agent 技能与 MCP 资源。
+- [AgentHub](https://myagenthub.cn) - 中文 MCP Server 与 Agent Skills 发现目录，支持一键安装到 Cursor、Claude Code、VS Code、Trae。
 
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选：MCP 指南、Claude MCP、MCP Servers、MCP Clients。
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - 开源超级 AI 助手与 Agent 框架：规划任务、运行工具和技能、自我进化。

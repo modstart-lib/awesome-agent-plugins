@@ -342,6 +342,7 @@ Plugins, extensions, and agents for specific AI coding clients.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents、Agent Skills 与 RAG 应用（开源）。
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - 面向 AI Agent 的自进化上下文数据库，统一记忆、知识 RAG 与技能。
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 支持智能对话、自主 Agent 与 300+ 助手的 AI 生产力工作台。
+- [AgentHub](https://myagenthub.cn) - Chinese directory for discovering MCP servers and agent skills, with one-click install for Cursor, Claude Code, VS Code and Trae.
 
 ---
 
