@@ -168,6 +168,7 @@ First-party skills published by the teams that build the tools.
 - [remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion) - Programmatic video creation with React.
 - [composiohq/composio](https://officialskills.sh/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication.
 - [veniceai/skills](https://github.com/veniceai/skills) - Official Venice API skills: chat, image, audio, video, models, billing, and more.
+- [voygr-tech/placecall](https://github.com/voygr-tech/placecall) - Official PlaceCall skill and Claude Code, Codex and Cursor plugins that place real phone calls to US businesses and return the outcome and transcript.
 
 ## 🧠 Frameworks & Workflows
 

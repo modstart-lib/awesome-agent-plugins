@@ -165,6 +165,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 - [remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion) - 使用 React 进行程序化视频创作。
 - [composiohq/composio](https://officialskills.sh/composiohq/skills/composio) - 通过托管认证将 AI Agent 连接到 1000+ 外部应用。
 - [veniceai/skills](https://github.com/veniceai/skills) - Venice 官方 API 技能：聊天、图像、音频、视频、模型、计费等。
+- [voygr-tech/placecall](https://github.com/voygr-tech/placecall) - PlaceCall 官方技能与 Claude Code、Codex、Cursor 插件：给美国商家拨打真实电话，返回通话结果与文字记录。
 
 ## 🧠 框架与工作流
 
