@@ -261,6 +261,7 @@ Methodologies, frameworks, and workflows that make agents more effective.
 ## 📈 Marketing & Growth
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents: CRO, copywriting, SEO, analytics, and growth engineering.
+- [juzpost/juzpost-agent](https://github.com/juzpost/juzpost-agent) - ChatGPT and Claude plugin with skills and an MCP server to draft and schedule social media posts across X, LinkedIn, Instagram, TikTok and more.
 - [typefully/typefully](https://officialskills.sh/typefully/skills/typefully) - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon.
 - [sanity-io/seo-aeo-best-practices](https://officialskills.sh/sanity-io/skills/seo-aeo-best-practices) - SEO and answer-engine optimization patterns for content sites.
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Advertising skills for OpenClaw, Claude Code & AI agents: direct response, paid media, and more.
