@@ -258,6 +258,7 @@ v1.0.0 规范定义了两种可移植组件类型：**Agent Skills** 与 **MCP �
 ## 📈 营销与增长
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - 面向 Claude Code 与 AI Agent 的营销技能：CRO、文案、SEO、分析与增长工程。
+- [juzpost/juzpost-agent](https://github.com/juzpost/juzpost-agent) - 面向 ChatGPT 与 Claude 的插件，包含技能与 MCP 服务器，可在 X、LinkedIn、Instagram、TikTok 等平台起草并排期发布社媒内容。
 - [typefully/typefully](https://officialskills.sh/typefully/skills/typefully) - 在 X、LinkedIn、Threads、Bluesky 与 Mastodon 创建、排期与发布社媒内容。
 - [sanity-io/seo-aeo-best-practices](https://officialskills.sh/sanity-io/skills/seo-aeo-best-practices) - 内容网站的 SEO 与答案引擎优化模式。
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Kim Barrett 的广告技能：面向 OpenClaw、Claude Code 与 AI Agent 的直复营销与付费媒体。
